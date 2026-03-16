@@ -8,6 +8,26 @@
 
 ---
 
+# 🚀 Current Project
+
+### AI Powered Blogging Platform
+
+A modern blogging platform where users can write blogs, interact with readers, and generate content using AI assistance.
+
+### Features
+
+- ✍️ Blog publishing  
+- 🤖 AI content generation  
+- 🏷️ AI tag generation  
+- 👤 User profiles  
+- 🔗 Follow system  
+- 💬 Real-time messaging  
+
+Repository  
+https://github.com/oms13/AI-Powered-Blog-Platform
+
+---
+
 # 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -37,26 +57,6 @@
 ## Creative Tools
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro)
-
----
-
-# 🚀 Current Project
-
-### AI Powered Blogging Platform
-
-A modern blogging platform where users can write blogs, interact with readers, and generate content using AI assistance.
-
-### Features
-
-- ✍️ Blog publishing  
-- 🤖 AI content generation  
-- 🏷️ AI tag generation  
-- 👤 User profiles  
-- 🔗 Follow system  
-- 💬 Real-time messaging  
-
-Repository  
-https://github.com/oms13/AI-Powered-Blog-Platform
 
 ---
 
@@ -103,3 +103,4 @@ https://github.com/oms13/AI-Powered-Blog-Platform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-sahu-626a97292/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-135K%2B%20Subscribers-red?style=for-the-badge&logo=youtube)](https://youtube.com)
+](https://github.com/oms13)
